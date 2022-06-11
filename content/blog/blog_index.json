@@ -1,0 +1,142 @@
+{
+  "es": [ {
+    "id": "configure",
+    "section": "linux",
+    "date": "March 28, 2022",
+    "title": "Configure sudoers file",
+    "description": "This tutorial helps you to understand better how the sudoers file works and how to configure it.",
+    "url": "example.md"
+  },
+  {
+    "id": "linux-environment-variables",
+    "section": "linux",
+    "date": "March 28, 2022",
+    "title": "Configure sudoers file",
+    "description": "This tutorial helps you to understand better how the sudoers file works and how to configure it.",
+    "url": "example.md"
+  },
+  {
+    "id": "interesting-linux-commands",
+    "section": "linux",
+    "date": "March 28, 2022",
+    "title": "Configure sudoers file",
+    "description": "This tutorial helps you to understand better how the sudoers file works and how to configure it.",
+    "url": "example.md"
+  },
+  {
+    "id": "configure",
+    "section": "linux",
+    "date": "March 28, 2022",
+    "title": "Configure sudoers file",
+    "description": "This tutorial helps you to understand better how the sudoers file works and how to configure it.",
+    "url": "example.md"
+  },
+  {
+    "id": "configure",
+    "section": "linux",
+    "date": "March 28, 2022",
+    "title": "Configure sudoers file",
+    "description": "This tutorial helps you to understand better how the sudoers file works and how to configure it.",
+    "url": "example.md"
+  },
+  {
+    "id": "configure2",
+    "section": "linux",
+    "date": "March 28, 2022",
+    "title": "Configure sudoers file",
+    "description": "This tutorial helps you to understand better how the sudoers file works and how to configure it.",
+    "url": "example.md"
+  },
+  {
+    "id": "configure3",
+    "section": "linux",
+    "date": "March 28, 2022",
+    "title": "Configure sudoers file",
+    "description": "This tutorial helps you to understand better how the sudoers file works and how to configure it.",
+    "url": "example.md"
+  },
+  {
+    "id": "configure4",
+    "section": "linux",
+    "date": "March 28, 2022",
+    "title": "Configure sudoers file",
+    "description": "This tutorial helps you to understand better how the sudoers file works and how to configure it.",
+    "url": "example.md"
+  },
+  {
+    "id": "configure",
+    "section": "linux",
+    "date": "March 28, 2022",
+    "title": "Configure sudoers file",
+    "description": "This tutorial helps you to understand better how the sudoers file works and how to configure it.",
+    "url": "example.md"
+  },
+  {
+    "id": "configure2",
+    "section": "linux",
+    "date": "March 28, 2022",
+    "title": "Configure sudoers file",
+    "description": "This tutorial helps you to understand better how the sudoers file works and how to configure it.",
+    "url": "example.md"
+  },
+  {
+    "id": "configure3",
+    "section": "linux",
+    "date": "March 28, 2022",
+    "title": "Configure sudoers file",
+    "description": "This tutorial helps you to understand better how the sudoers file works and how to configure it.",
+    "url": "example.md"
+  },
+  {
+    "id": "configure4",
+    "section": "linux",
+    "date": "March 28, 2022",
+    "title": "Configure sudoers file",
+    "description": "This tutorial helps you to understand better how the sudoers file works and how to configure it.",
+    "url": "example.md"
+  }
+
+],
+  "en": [
+    {
+      "id": "configure-sudoers-file2",
+      "section": "linux2",
+      "date": "March 28, 2022",
+      "title": "Configure sudoers file",
+      "description": "This tutorial helps you to understand better how the sudoers file works and how to configure it.",
+      "url": "linux/configure-sudoers-file.md"
+    },
+    {
+      "id": "configure-sudoers-file3",
+      "section": "linux3",
+      "date": "March 28, 2022",
+      "title": "Configure sudoers file",
+      "description": "This tutorial helps you to understand better how the sudoers file works and how to configure it.",
+      "url": "linux/configure-sudoers-file.md"
+    },
+    {
+      "id": "configure-sudoers-file4",
+      "section": "linux4",
+      "date": "March 28, 2022",
+      "title": "Configure sudoers file",
+      "description": "This tutorial helps you to understand better how the sudoers file works and how to configure it.",
+      "url": "linux/configure-sudoers-file.md"
+    },
+    {
+      "id": "configure-sudoers-file5",
+      "section": "linux5",
+      "date": "March 28, 2022",
+      "title": "Configure sudoers file",
+      "description": "This tutorial helps you to understand better how the sudoers file works and how to configure it.",
+      "url": "linux/configure-sudoers-file.md"
+    },
+    {
+      "id": "configure-sudoers-file6",
+      "section": "linux6",
+      "date": "March 28, 2022",
+      "title": "Configure sudoers file",
+      "description": "This tutorial helps you to understand better how the sudoers file works and how to configure it.",
+      "url": "linux/configure-sudoers-file.md"
+    }
+  ]
+}
